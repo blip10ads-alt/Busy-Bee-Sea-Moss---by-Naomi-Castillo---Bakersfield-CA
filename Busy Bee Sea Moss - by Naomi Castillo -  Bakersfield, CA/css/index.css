@@ -4504,7 +4504,7 @@ body
    border: 0px solid #DEE2E6;
    border-radius: 0px;
    box-sizing: border-box;
-   margin: 40px 0 0 0 ;
+   margin: 50px 0 0 0 ;
 }
 #DeviceLayoutGrid16
 {
@@ -12487,7 +12487,7 @@ body
 }
 #wb_Text65
 {
-   width: 131px;
+   width: 261px;
    height: 30px;
    visibility: visible;
    display: inline-block;
@@ -12520,7 +12520,7 @@ body
 #wb_DeviceLayoutGrid16
 {
    height: auto;
-   margin-top: 40px;
+   margin-top: 50px;
    margin-bottom: 0px;
 }
 #DeviceLayoutGrid16
